@@ -1,7 +1,7 @@
 # Contact Form — TechnoHacks Internship (Task 2)
 
 This project is created as part of the **TechnoHacks Edutech Internship – Web Development Task 2**.  
-The goal of the task is to build a **responsive Contact Form** using **HTML, CSS, and JavaScript** with proper input validation.
+The objective was to build a clean, responsive, and functional **Contact Form** using HTML, CSS, and JavaScript with proper input validation.
 
 ---
 
@@ -12,21 +12,20 @@ The goal of the task is to build a **responsive Contact Form** using **HTML, CSS
 - Email Address  
 - Phone Number (Optional)  
 - Subject Dropdown  
-- Message Textarea  
+- Message Textarea with character counter (0/300)
 
 ### 🎨 UI & Styling
-- Modern Dark Theme  
-- Fully Responsive Layout  
-- Smooth Button Hover Effects  
-- Clean Input Field Styling  
-- Character Counter (0/300)
+- Modern dark theme  
+- Fully responsive layout  
+- Smooth hover and focus effects  
+- Clean and readable form design  
 
 ### 🛡️ JavaScript Validations
-- Empty field check  
+- Required fields check  
 - Email format validation  
-- Phone number length check  
-- Live character counter  
-- Success & error messages  
+- Phone number length validation  
+- Live message character counter  
+- Error and success message handling  
 
 ---
 
@@ -36,26 +35,38 @@ The goal of the task is to build a **responsive Contact Form** using **HTML, CSS
 |-----------|---------|
 | **HTML5** | Form Structure |
 | **CSS3** | Styling & Layout |
-| **JavaScript** | Validation & Interaction |
+| **JavaScript (ES6)** | Validation & Interaction |
 
 ---
 
 ## ▶️ How to Run
-1. Download the repository  
-2. Open the project folder  
-3. Run **contact.html** in your browser  
-4. Test all input fields and validation  
+
+You can run this project in **two easy ways**:
+
+### 🔹 Method 1 — Open Directly (Double Click)
+1. Download the project folder  
+2. Open the folder on your system  
+3. Double-click **contact.html**  
+4. The Contact Form will open in your browser  
+
+### 🔹 Method 2 — Using VS Code (Live Server)
+1. Open the project folder in **Visual Studio Code**  
+2. Right-click **contact.html**  
+3. Select **“Open with Live Server”**  
+4. The form will launch in the browser with auto-refresh  
+(*yehi method maine use kiya hai*)  
 
 ---
 
 ## 📌 Internship Requirements Covered
 - ✔ HTML Form  
-- ✔ Styled with CSS  
-- ✔ JS Validation  
-- ✔ Responsive & Clean UI  
-- ✔ Fully Working Contact Form  
+- ✔ CSS Styling  
+- ✔ JavaScript Validation  
+- ✔ Responsive UI  
+- ✔ Clean and modern design  
+- ✔ Fully working project ready for submission  
 
 ---
 
 ## 📮 Credits
-Project created as part of **TechnoHacks Web Development Internship (Task 2)**.
+Project created as part of the **TechnoHacks Web Development Internship — Task 2**.
